@@ -24,7 +24,7 @@
     <a href="/yann44000/blob/main/presentation_powerpoint.pptx" target="_blank">Présentation PowerPoint</a></li>
   </li>
   <li>
-    <a href="/yann44000/blob/main/dossier_pro.pdf" target="_blank">Dossier professionnel</a></li>
+    <a href="/yann44000/blob/main/dossier_professionel.pdf" target="_blank">Dossier professionnel</a></li>
   </li>
   <li>
     <a href="/yann44000/blob/main/dossier_de_projet.pdf" target="_blank">Dossier de projet</a></li>
